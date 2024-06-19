@@ -1,13 +1,4 @@
 # Tic-Tac-Toe-python
+fostos tictactoe amit kb 1 óra alatt írtam XD
 
-Még hozzá kell adni ezeket:
-
-Föképernyő
-
--"JÁTÉK" gomb
-
--"beállítésok" gomb
-
--játéktér méretének beállítása
-  
-Nagyobb betűk
+UWU~
